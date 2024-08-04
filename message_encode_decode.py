@@ -5,7 +5,7 @@ import base64
 root = Tk()
 root.geometry('500x300')
 root.resizable(0, 0)
-root.title("DataFlair - Message Encode -and Decode")
+root.title("Cyan Coder: Message Encode and Decode")
 root.configure(bg='black')
 
 Label(root, text='ENCODE DECODE', font='arial 25 bold', bg='cyan').pack()
